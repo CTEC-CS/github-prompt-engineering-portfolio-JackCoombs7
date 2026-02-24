@@ -1,10 +1,8 @@
 # About Me
 ## Who I Am
-[Write 2-3 paragraphs introducing yourself:]
-[Paragraph 1: My name is Jack and I am a 17 year old living in Utah. I am currently attending Jordan highschool until I graduate in May. I am also taking a concurrent enrollment class that focuses on AI because I am very interested in how this new technology works and I would love to learn how this technology will impact the world.]
-[Paragraph 2: What specific problems or industries you want to focus on, why this
-matters to you. I am currently interested and focused on the topic of using AI for 3d redering and graphical processes. Resolution upscaling as well as frame generation has been revolutionary for performance in the recent generations of graphical cards that support it, and it might be the next step in all of media as a whole in my opinion. That is why I am so interested in this application of AI because it will be **huge** in the next coming years.]
-[Paragraph 3: What makes your perspective unique, what you're working toward]
+[My name is Jack and I am a 17 year old living in Utah. I am currently attending Jordan highschool until I graduate in May. I am also taking a concurrent enrollment class that focuses on AI because I am very interested in how this new technology works and I would love to learn how this technology will impact the world.]
+[What specific problems or industries you want to focus on, why this
+matters to you. I am currently interested and focused on the topic of using AI for 3d redering and graphical processes. Resolution upscaling as well as frame generation has been revolutionary for performance in the recent generations of graphics cards, and it might be the next step in all of media as a whole in my opinion. That is why I am so interested in this application of AI because it will be **huge** in the up and coming years.]
 Key Focus Areas:
 - [Your main AI interest]
 - [Technical skills you're developing]
